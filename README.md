@@ -1,3 +1,5 @@
 # Exercicios-python
 
-Atividades de Python desenvolvidas durante as aulas no curso técnico de Desenvolvimento de Sistemas do SENAI.
+. Conteúdo das aulas de Back-End
+
+. Estudos e exercícios da disciplina utilizando Python no SENAI.
